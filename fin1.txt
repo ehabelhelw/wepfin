@@ -1,1 +1,2 @@
 first line in fin1
+second lin in fin1.txt
